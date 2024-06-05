@@ -6,5 +6,6 @@ I'm a Computer Science student at UFABC and i like to work on games and other fu
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocboar&exclude_repo=2048-wars&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> 
-  Visitors: <img src="https://profile-counter.glitch.me/LeonardoCBoar/count.svg" />
+  Visitor Count <br>
+  <img src="https://profile-counter.glitch.me/LeonardoCBoar/count.svg" />
 </p>
