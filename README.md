@@ -4,3 +4,5 @@ I'm a Computer Science student at UFABC and i like to work on games and other fu
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardocboar&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocboar&exclude_repo=2048-wars&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+![Visitor Count](https://profile-counter.glitch.me/LeonardoCBoar/count.svg)
